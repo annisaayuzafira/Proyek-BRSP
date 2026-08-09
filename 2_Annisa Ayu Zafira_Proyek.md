@@ -76,21 +76,21 @@ Hasil analisis network pharmacology menunjukkan adanya 14 gen irisan antara targ
 
 Dalam tabel yang telah di olah menggunakan cytoHubba dengan menggunakan metode Degree, lima protein dengan nilai tertinggi adalah IL6 (78), TNF (71), INS (69), EGFR (69), dan IL1B (65). Protein-protein tersebut diperkirakan berperan sebagai hub gene karena memiliki konektivitas paling tinggi dibandingkan protein lainnya. Tingginya nilai degree menunjukkan bahwa protein tersebut berpotensi menjadi regulator utama dalam proses inflamasi, regulasi metabolisme, proliferasi sel, serta respons imun yang berkontribusi terhadap perkembangan aterosklerosis.
 
-![Jaringan Protein-Protein Interaction (PPI) dengan STRING.](/jaringan.png "Jaringan Protein-Protein Interaction (PPI) dengan STRING.")
+![jaringan.](/jaringan png. "jaringan.")
 
 **Gambar 1. Jaringan Protein-Protein Interaction (PPI) dengan STRING**
 
 Jaringan Protein-Protein Interaction (PPI) menunjukkan hubungan antarprotein hasil irisan yang diprediksi saling berinteraksi dalam mekanisme biologis aterosklerosis. Berdasarkan hasil analisis menggunakan STRING, sebagian besar protein target saling terhubung membentuk jaringan interaksi kompleks. Hubungan tersebut menunjukkan bahwa mekanisme perkembangan aterosklerosis tidak dikendalikan oleh satu protein saja, melainkan melibatkan berbagai protein yang saling memengaruhi. 
 
-![Visualisasi jaringan interaksi senyawa-target-pathway.](/visualisasi.png "Visualisasi jaringan interaksi senyawa-target-pathway.")
+![target.](/target.png "target.")
 
 **Gambar 2. Visualisasi jaringan interaksi senyawa-target-pathway**
 
 Berdasarkan visualisasi jaringan, senyawa β-sitosterol, berberine, dan wogonin berinteraksi dengan beberapa target protein yaitu PPARA, FABP1, FABP5, NR1H3, ESR1. Target-target tersebut terhubungan dengan PPAR signaling pathway. Hubungan antara senyawa aktif, target protein, dan jalur biologis tersebut menunjukkan bahwa efek terapeutik kombinasi tanaman ini memungkinkan diperoleh melalui modulasi berbagai proses biologis yang saling berkaitan.
 
-![Analysis Gene Ontology.](/go.png "Analysis Gene Ontology.")
+![GO.](/GO.png "GO.")
 
-![Analisis KEGG.](/kegg.png "Analisis KEGG.")
+![kegg.](/kegg.png "kegg.")
 
 **Gambar 3. Hasil enrichment analysis Gene Ontology dan KEGG dalam STRING**
 
@@ -127,7 +127,7 @@ Hasil tersebut menghasilkan 8 mode dari mode 0-7 dengan nilai binding affinity y
 ### Hasil Analisis Interaksi Berberine dengan PPARG
 Hasil terbaik yang diperoleh dari hasil molecular docking selanjutnya divisualisisasikan menggunakan BIOVIA Discovery Studi dalam bentuk 2D.
 
-![visligan.](/visligan.png "visligan.")
+![berberine.](/berberine.png "berberine.")
 
 **Gambar 5. Visualisasi Protein-Ligan dengan Biovia Discovery Studio**  
 
