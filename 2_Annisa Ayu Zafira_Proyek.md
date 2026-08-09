@@ -76,7 +76,7 @@ Hasil analisis network pharmacology menunjukkan adanya 14 gen irisan antara targ
 
 Dalam tabel yang telah di olah menggunakan cytoHubba dengan menggunakan metode Degree, lima protein dengan nilai tertinggi adalah IL6 (78), TNF (71), INS (69), EGFR (69), dan IL1B (65). Protein-protein tersebut diperkirakan berperan sebagai hub gene karena memiliki konektivitas paling tinggi dibandingkan protein lainnya. Tingginya nilai degree menunjukkan bahwa protein tersebut berpotensi menjadi regulator utama dalam proses inflamasi, regulasi metabolisme, proliferasi sel, serta respons imun yang berkontribusi terhadap perkembangan aterosklerosis.
 
-![jaringan.](/jaringan png. "jaringan.")
+![jaringan.](/jaringan.png "jaringan.")
 
 **Gambar 1. Jaringan Protein-Protein Interaction (PPI) dengan STRING**
 
