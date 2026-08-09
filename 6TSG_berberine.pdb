@@ -1,0 +1,26 @@
+REMARK   4 XXXX COMPLIES WITH FORMAT V. 2.0
+HETATM    1  O   LIG     1     -13.966   0.692 -18.078  1.00  0.00      6TSG O  
+HETATM    2  O   LIG     1     -13.522   0.084 -20.367  1.00  0.00      6TSG O  
+HETATM    3  N   LIG     1      -7.970  -1.444 -18.394  1.00  0.00      6TSG N  
+HETATM    4  C   LIG     1      -8.477  -1.559 -17.003  1.00  0.00      6TSG C  
+HETATM    5  C   LIG     1      -9.333  -0.352 -16.669  1.00  0.00      6TSG C  
+HETATM    6  C   LIG     1      -8.774  -1.004 -19.405  1.00  0.00      6TSG C  
+HETATM    7  C   LIG     1     -10.434  -0.244 -17.686  1.00  0.00      6TSG C  
+HETATM    8  C   LIG     1     -10.140  -0.585 -19.036  1.00  0.00      6TSG C  
+HETATM    9  C   LIG     1      -6.699  -1.841 -18.635  1.00  0.00      6TSG C  
+HETATM   10  C   LIG     1      -8.253  -0.943 -20.709  1.00  0.00      6TSG C  
+HETATM   11  C   LIG     1      -6.146  -1.803 -19.913  1.00  0.00      6TSG C  
+HETATM   12  C   LIG     1      -6.938  -1.342 -20.975  1.00  0.00      6TSG C  
+HETATM   13  C   LIG     1     -11.705   0.209 -17.300  1.00  0.00      6TSG C  
+HETATM   14  C   LIG     1     -11.180  -0.492 -19.982  1.00  0.00      6TSG C  
+HETATM   15  C   LIG     1     -12.680   0.288 -18.267  1.00  0.00      6TSG C  
+HETATM   16  C   LIG     1     -12.426  -0.058 -19.571  1.00  0.00      6TSG C  
+HETATM   17  C   LIG     1      -4.824  -2.211 -20.160  1.00  0.00      6TSG C  
+HETATM   18  C   LIG     1      -6.394  -1.293 -22.269  1.00  0.00      6TSG C  
+HETATM   19  C   LIG     1      -4.296  -2.158 -21.450  1.00  0.00      6TSG C  
+HETATM   20  C   LIG     1     -14.494   0.559 -19.413  1.00  0.00      6TSG C  
+HETATM   21  C   LIG     1      -5.080  -1.699 -22.504  1.00  0.00      6TSG C  
+HETATM   22  O   LIG     1      -4.031  -2.665 -19.144  1.00  0.00      6TSG O  
+HETATM   23  C   LIG     1      -3.153  -1.719 -18.541  1.00  0.00      6TSG C  
+HETATM   24  O   LIG     1      -3.015  -2.552 -21.692  1.00  0.00      6TSG O  
+HETATM   25  C   LIG     1      -2.655  -2.790 -23.053  1.00  0.00      6TSG C  
